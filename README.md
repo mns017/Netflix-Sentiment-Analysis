@@ -212,10 +212,3 @@ Download the Raw Dataset from Kaggle:
 ➡️ [Click Here to Download](https://www.kaggle.com/datasets/ashishkumarak/netflix-reviews-playstore-daily-updated)
 
 
-💬 If you found this useful, feel free to connect!
-
-Always happy to collaborate on Data Analytics, ML, NLP or Dashboarding projects.
-
-Author: Hani Patel
-Linkedin: www.linkedin.com/in/hani-patel-6a9370265
-Email: hanipatel0621@gmail.com
